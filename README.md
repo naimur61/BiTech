@@ -14,3 +14,7 @@ Make sure you have Node.js and npm installed on your system. You can download an
 
    ```bash
    git clone https://github.com/naimur61/simple-crud-api.git
+2. Install the dependencies by running:
+
+   ```bash
+   npm install
