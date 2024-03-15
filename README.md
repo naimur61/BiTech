@@ -1,4 +1,4 @@
- # Simple CRUD API with Express.js
+# Simple CRUD API with Express.js
 
 This is a simple CRUD API built with Express.js for managing users. It provides basic operations to create, read, update, and delete user data.
 
